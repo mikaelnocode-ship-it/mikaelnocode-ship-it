@@ -13,7 +13,8 @@ Native French speaker based in Bulgaria. I help small businesses with two things
 | [spreadsheet-cleaner](https://github.com/mikaelnocode-ship-it/spreadsheet-cleaner) | Cleans messy CSV/Excel exports: emails, phones, dates, amounts, duplicates, plus an issues report |
 | [sheets-invoice-reminders](https://github.com/mikaelnocode-ship-it/sheets-invoice-reminders) | Google Sheets + Apps Script: automatic payment reminders for overdue invoices |
 
-Tools: Excel, Google Sheets, Apps Script, Python (openpyxl), Microsoft 365.
-Languages: French (native), English (fluent, professional), Italian (intermediate).
+**Tools:** Excel, Google Sheets, Apps Script, Python (openpyxl), Microsoft 365.
+
+**Languages:** French (native), English (fluent, professional), Italian (intermediate).
 
 📫 Available for projects on Upwork.
